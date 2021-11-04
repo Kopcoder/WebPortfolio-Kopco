@@ -1,0 +1,12 @@
+This web portfolio is designed to be a hypothetical job-seeking website using
+my soundscape narrative and visual argument that I would use if I were to be
+going into the design field. The intended audience for this portfolio is
+employers looking for employees who have interacted with the software involved
+in putting together these pieces of media as well as further proficiency in
+GitHub and the adjacent software. The media itself is present on the site, but
+the primary goal is to use that media to convince this audience that I am
+capable of using this software for future projects, and the sorts of tools
+within that software that I was able to implement in these projects
+specifically. The site is meant to convey not only a basic experience with the
+software involved, but a willingness to learn and experience more with time and
+future projects.
