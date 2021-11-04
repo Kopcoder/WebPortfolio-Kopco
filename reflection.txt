@@ -11,4 +11,11 @@ learning HTML and CSS. The process of learning the organization and syntax of
 HTML was very familiar, since it was very similar to the process of learning
 other programming languages like Python or Java. CSS on the other hand was a bit
 more unfamiliar. I have not dealt with user interfaces very often, so learning
-this was difficult but will likely prove to be quite useful.
+this was difficult but will likely prove to be quite useful. Issues involving
+the differences between inline and block elements, as well as the specific
+syntax of organizing elements into universal segments within the CSS code were
+recurring obstacles that needed to be overcome. The greatest hurdle of all in
+the process of assembling the site was putting together the navigation bars.
+It took many Google searches and much troubleshooting for me to understand the
+process of turning an unordered list of links into a set of "buttons" for the
+user to more cleanly interface with.
