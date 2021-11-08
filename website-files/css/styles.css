@@ -1,5 +1,7 @@
 * {
-  font-family: Garamond, Verdana, Arial, sans-serif;
+  /*Garamond does not work on MacOS*/
+  /*Times New Roman alternative maintains organization*/
+  font-family: Garamond, "Times New Roman", serif;
   font-size: 16px;
   background-color: #959cdb;
   margin-left: 10px;
@@ -9,16 +11,10 @@
 }
 
 div.wrapper {
-  /*margin-left: auto;
-  margin-right: auto;*/
   background-color: #7c63d6;
 }
 
 div.element-box {
-  /*padding-left: 100px;
-  padding-right: 100px;
-  padding-top: 10px;
-  padding-bottom: 10px;*/
   padding: 10px;
   background-color: #7c63d6;
   border: 1px solid #f9f5ff;
@@ -29,14 +25,9 @@ div.focal-point, div.site-navigation {
   align-items: center;
 }
 
-/*div.site-navigation {
-  padding: 10px;
-}*/
-
 body {
   width: 70%;
   margin-left: 15%;
-  /*margin-right: 15%;*/
   color: #f9f5ff;
   background-color: #7c63d6;
   display: inline-block;
@@ -92,20 +83,12 @@ li.navigation a {
   display: block;
   color: #f9f5ff;
   padding: 10px 15px;
-  /*padding-left: 0;
-  padding-right: 0;*/
   font-size: 20px;
   text-decoration: none;
   background-color: #5741a3;
   margin: 0;
   border: 2px solid #f9f5ff;
-  /*margin: 0px, 10px, 0px, 10px;
-  padding: 0px, 10px, 0px, 10px;*/
 }
-
-/*li.navigation a.visited {
-  color: #959cdb;
-}*/
 
 li a:hover {
   background-color: #352669;
@@ -114,12 +97,10 @@ li a:hover {
 li.navigation {
   display: inline-block;
   float: center;
-  /*width: 25%;*/
   margin: 0;
   padding: 0;
   margin-right: -2px;
   margin-left: -2px;
-  /*padding: 10px 10px 10px 10px;*/
 }
 
 li.site-links {
@@ -149,6 +130,5 @@ ul.on-page {
 }
 
 li a.active {
-  /*background-color: #4a416b;*/
   background-color: #382485;
 }
