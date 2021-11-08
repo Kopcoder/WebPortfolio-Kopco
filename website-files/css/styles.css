@@ -42,6 +42,8 @@ ul, li, p, h1, h2, h3, h4, audio {
 p {
   font-size: 18px;
   text-indent: 45px;
+  /*width: 30%;
+  float: left;*/
 }
 
 a {
