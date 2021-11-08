@@ -67,6 +67,8 @@ h4 {
   font-size: 30px;
 }
 
+/*Links*/
+
 a:visited {
   color: #60458a;
 }
@@ -79,6 +81,10 @@ a:active {
   color: #caa6ff;
 }
 
+/*End Links*/
+
+/*Navigation Box*/
+
 li.navigation a {
   display: block;
   color: #f9f5ff;
@@ -90,10 +96,6 @@ li.navigation a {
   border: 2px solid #f9f5ff;
 }
 
-li a:hover {
-  background-color: #352669;
-}
-
 li.navigation {
   display: inline-block;
   float: center;
@@ -101,14 +103,6 @@ li.navigation {
   padding: 0;
   margin-right: -2px;
   margin-left: -2px;
-}
-
-li.site-links {
-  width: 25%;
-}
-
-li.on-page {
-  width: 50%;
 }
 
 ul.navigation {
@@ -121,6 +115,22 @@ ul.navigation {
   background-color: #5741a3;
 }
 
+li a:hover {
+  background-color: #352669;
+}
+
+li a.active {
+  background-color: #382485;
+}
+
+li.site-links {
+  width: 25%;
+}
+
+li.on-page {
+  width: 50%;
+}
+
 ul.site-links {
   width: 700px;
 }
@@ -129,6 +139,4 @@ ul.on-page {
   width: 400px;
 }
 
-li a.active {
-  background-color: #382485;
-}
+/*End Navigation Box*/
