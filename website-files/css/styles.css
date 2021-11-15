@@ -28,6 +28,7 @@ div.focal-point, div.site-navigation {
 body {
   width: 70%;
   margin-left: 15%;
+  margin-right: 15%;
   color: #f9f5ff;
   background-color: #7c63d6;
   display: inline-block;
@@ -42,6 +43,9 @@ ul, li, p, h1, h2, h3, h4, audio {
 p {
   font-size: 18px;
   text-indent: 45px;
+  width: 70%;
+  padding-left: 15%;
+  padding-right: 15%;
   /*width: 30%;
   float: left;*/
 }
@@ -134,11 +138,13 @@ li.on-page {
 }
 
 ul.site-links {
-  width: 700px;
+  /*width: 700px;*/
+  width: 80%;
 }
 
 ul.on-page {
-  width: 400px;
+  /*width: 400px;*/
+  width: 50%;
 }
 
 /*End Navigation Box*/
