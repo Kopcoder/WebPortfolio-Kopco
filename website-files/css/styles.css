@@ -23,6 +23,7 @@ div.element-box {
 div.focal-point, div.site-navigation {
   text-align: center;
   align-items: center;
+  padding-bottom: 25px;
 }
 
 body {
@@ -46,8 +47,6 @@ p {
   width: 70%;
   padding-left: 15%;
   padding-right: 15%;
-  /*width: 30%;
-  float: left;*/
 }
 
 a {
@@ -138,12 +137,10 @@ li.on-page {
 }
 
 ul.site-links {
-  /*width: 700px;*/
   width: 80%;
 }
 
 ul.on-page {
-  /*width: 400px;*/
   width: 50%;
 }
 
