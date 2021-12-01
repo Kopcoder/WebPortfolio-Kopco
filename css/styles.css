@@ -75,7 +75,8 @@ h4 {
 /*Links*/
 
 a:visited {
-  color: #1c1429;
+  /*color: #1c1429;*/
+  color: #e3d1ff;
 }
 
 a:hover {
